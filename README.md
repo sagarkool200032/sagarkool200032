@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FastAPI, React Native**
 
-- 👨‍💻 All of my projects are available at sagarverma.me
+- 👨‍💻 All of my projects are available at www.sagarverma.me
 
 - 💬 Ask me about **React, NodeJS, Django, MongoDB, MySql, MERN**
 
